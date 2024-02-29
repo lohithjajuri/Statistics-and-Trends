@@ -1,0 +1,15 @@
+# Exclude Python bytecode files
+*.pyc
+
+# Exclude system-specific files and directories
+.DS_Store
+.idea/
+.vscode/
+
+# Exclude data files or large files
+*.csv
+
+# Exclude generated plots or figures
+*.png
+*.jpg
+*.pdf
